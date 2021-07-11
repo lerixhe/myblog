@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.goplay.top/categories/</loc>
+    <loc>https://blog.goplay.top/post/first/</loc>
+    <lastmod>2021-07-10T22:59:46+08:00</lastmod>
   </url><url>
     <loc>https://blog.goplay.top/</loc>
+    <lastmod>2021-07-10T22:59:46+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.goplay.top/post/</loc>
+    <lastmod>2021-07-10T22:59:46+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.goplay.top/about/</loc>
+    <lastmod>2021-07-10T22:58:18+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.goplay.top/categories/</loc>
   </url><url>
     <loc>https://blog.goplay.top/tags/</loc>
   </url>
